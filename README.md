@@ -1,4 +1,4 @@
-RegExpToDFA
+# RegExpToDFA
 
 A little program that transform a regular expression into a DFA by Direct Method. The program builds the DFA by following the next steps:
 
